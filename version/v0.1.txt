@@ -1,2 +1,3 @@
 14:16 15/05/2022
 - organisation du repertoire
+- ajout d'exemple de persos
